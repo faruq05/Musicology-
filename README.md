@@ -1,2 +1,2 @@
-# Musicology-
+# Musicology
 Practice file 1
